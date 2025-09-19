@@ -1,6 +1,6 @@
 # Hey there, I'm Aditya Joshi! 👋
 
-Welcome to my GitHub! I'm a **Cybersecurity Enthusiast** and recent B.Tech graduate (specializing in Cybersecurity & Digital Forensics) from Vellore Institute of Technology. Passionate about protecting digital assets through hands-on tools like IBM Guardium, penetration testing, and building secure apps. When I'm not hacking (ethically!), I'm geeking out over anime or shooting hoops.
+Welcome to my GitHub! I'm a **Cybersecurity Enthusiast** and recent B.Tech graduate (specializing in Cybersecurity & Digital Forensics) from Vellore Institute of Technology. Passionate about protecting digital assets through hands-on tools like IBM Guardium, penetration testing, and building secure apps.
 
 ## 🔒 About Me
 - 🌱 Currently exploring advanced database security and ethical hacking techniques post-internships.
