@@ -12,8 +12,9 @@
 - **Areas of Expertise**: Penetration Testing, Vulnerability Assessment, Database Security, Incident Response, Network Security
 
 ## 🏆 Certifications & Achievements
-- **Google Cybersecurity Professional Certificate** (Coursera, March 2024) – Covered foundational security practices and tools.
+- **IBM Certified Guardium Data Protection v12.x Administrator - Professional** (May 2025) – Focused on expertise of IBM Guardium( an Enterprise level data security tool).
 - **TCM PEH (Practical Ethical Hacking) Course Certificate** (May 2025) – Focused on real-world hacking simulations.
+- **Google Cybersecurity Professional Certificate** (Coursera, March 2024) – Covered foundational security practices and tools.
 - Published paper: *The Importance of PCI DSS Compliance in Enhancing Cardholder Data Security* (IJNRD, August 2024).
 - Internships at Omni-Bridge Solutions & SwiftSafe: Deployed Guardium appliances and supported pen-testing reports.
 
