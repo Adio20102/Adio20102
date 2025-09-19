@@ -1,4 +1,5 @@
 # Hey there, I'm Aditya Joshi! 👋
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔒 About Me
 - 🌱 Currently exploring advanced database security and ethical hacking techniques post-internships.
